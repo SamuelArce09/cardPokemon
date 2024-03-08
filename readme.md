@@ -1,0 +1,1 @@
+estos estilos seran ejecutados con sass,esto es una card de pokemon que tiene una foto del pokemon y uno logos con sus habilidades
